@@ -3,7 +3,7 @@ const fs = require("fs");
 let work = [
     "React",
     "React Hooks",
-    "GSAP",
+    "Anime.js",
     "Redux"
 ]
 
