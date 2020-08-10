@@ -6,4 +6,4 @@
 - 📫 How to reach me: @srijans38 or [@theguywithabignose](https://instagram.com/theguywithabignose) almost anywhere.
 - ⚡ Fun fact: I am extremely scared of lizards.
 
-<img align="left" src="https://raw.githubusercontent.com/srijans38/srijans38/master/learning.svg" />
+<img align="left" src="https://www.github.com/srijans38/srijans38/raw/master/learning.svg" />
