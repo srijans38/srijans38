@@ -54,7 +54,7 @@
     <g id="list">
         <text id="list1" fill="black" xml:space="preserve" style="white-space: pre" font-size="16" letter-spacing="0em"><tspan x="23" y="87.207">React</tspan></text>
         <text id="list2" fill="black" xml:space="preserve" style="white-space: pre" font-size="16" letter-spacing="0em"><tspan x="23" y="117.207">React Hooks</tspan></text>
-        <text id="list3" fill="black" xml:space="preserve" style="white-space: pre" font-size="16" letter-spacing="0em"><tspan x="23" y="147.207">GSAP</tspan></text>
+        <text id="list3" fill="black" xml:space="preserve" style="white-space: pre" font-size="16" letter-spacing="0em"><tspan x="23" y="147.207">Anime.js</tspan></text>
         <text id="list4" fill="black" xml:space="preserve" style="white-space: pre" font-size="16" letter-spacing="0em"><tspan x="23" y="177.207">Redux</tspan></text>
     </g>
 </g>
