@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some side projects.
+- 🔭 I’m currently working on a fun project.
 - 👯 I’m looking to collaborate on frontend applications.
 - 💬 Ask me about Space and Formula 1 🏎️.
 - 📫 How to reach me: @srijans38 or [@theguywithabignose](https://instagram.com/theguywithabignose) almost anywhere.
